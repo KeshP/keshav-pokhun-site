@@ -28,7 +28,7 @@ twitter_username: ""
 github_username:  "KeshP"
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
